@@ -11,7 +11,7 @@ The backend provides RESTful CRUD operations using Express.js and MongoDB, while
 - CRUD operations for tasks  
 - React state management and routing  
 - Secure API communication with environment variables  
-- UI enhanced with Bootstrap and React Datepicker
+- UI enhanced with Bootstrap and React Datepicker.
 
 ## Technologies
 
