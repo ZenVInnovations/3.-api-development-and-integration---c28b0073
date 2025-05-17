@@ -37,3 +37,5 @@ npm start
 
 # In frontend folder
 npm start
+
+This is about the project .
